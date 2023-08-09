@@ -1,4 +1,4 @@
-This directory contains an implementation of the OSPF routing algorithm for routers running on two different machines.
+This directory contains an implementation of the OSPF routing algorithm with routers running on two different machines.
 
 To run code:
      python3 ospf.py -i id -f infile -o outfile -h hi -a lsai -s spfi -m machine_num -ip1 IP_addr1 -ip2 IP_addr2
